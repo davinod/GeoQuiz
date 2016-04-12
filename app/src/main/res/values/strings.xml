@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">What is the capital of Brazil ?</string>
+    <string name="true_button">Cyzz</string>
+    <string name="false_button">Sao Paulo</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+</resources>
